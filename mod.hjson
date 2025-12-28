@@ -1,8 +1,8 @@
-name: "ioskatev-language"
-displayName: "Mixed 7 ioskaTev languages translation of mindusTry (very cursed)"
+name: "ioskatolol-language"
+displayName: "Mixed 7 tolol languages translation of mindusTry (very dumb)"
 author: "☭Betu☭ & WantechFan"
-description: "made by @betu.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
-hidden: true
+description: "made by @betolol.ioskatev from Mindustry discord. Very cursed translátións of the game. Not fully translated yet!"
+hidden: false
 version: "1.0"
-minGameVersion: "146"
-subtitle: "very cursed translátións and very funny"
+minGameVersion: "200"
+subtitle: "very dumb translátións and very stupid"
